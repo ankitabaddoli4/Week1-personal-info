@@ -1,92 +1,65 @@
 ## Personal Information Manager
 
 ## Project Overview
-
 Personal Information Manager is my first Python project.
 The objective of this project is to learn basic Python programming concepts such as variables, user input, output formatting, calculations, and simple error handling.
 
 This project demonstrates how personal information can be stored, processed, and displayed using Python.
 
 ## Project Description
-
 This is a beginner-friendly Python program that stores and displays personal information.
-Some information is stored directly in the program, while other details are collected from the user during execution.
-
-The program validates user input, performs a simple calculation, and presents all information in a well-formatted output.
+ 1 Some information is stored directly in the program
+ 2 Other details are collected from the user during execution
+ 3 The program validates user input
+ 4 Performs a simple calculation
+ 5 Presents all information in a well-formatted output
 
 ## Project Goals and Objectives
 
-Learn Python syntax and structure
-Understand how variables and data types work
-Practice taking input from users
+1 Learn Python syntax and structure
+2 Understand how variables and data types work
+3 Practice taking input from users
 
 ## What I Learned
- Variables
-
+1 Variables:
 Learned how to store different types of data such as strings and integers.
-
-Input / Output
-
+2 Input / Output:
 Used input() to collect user information and print() to display results.
-
-String Formatting
-
+3 String Formatting:
 Used f-strings to create clean and readable output.
-
- Error Handling
-
+4 Error Handling
 Implemented basic validation using while loops to avoid empty input.
-
- Calculations
-
+5 Calculations
 Calculated age in months from age in years using arithmetic operations.
 
 ## Features
+1 Stores static information:
+  Name
+  Age
+  City
+  Hobby
 
-Stores static information:
-
-Name
-
-Age
-
-City
-
-Hobby
-
-Gets dynamic information from the user:
-
-Favorite food
-
-Favorite color
-
-Email address
-
-Country
+2 Gets dynamic information from the user:
+   Favorite food
+   Favorite color
+   Email address
+   Country
 
 Displays all information in a formatted layout
-
 Uses basic input validation
-
 Calculates age in months
 
 ## How to Run This Program
 Prerequisites
-
 Python must be installed on your system
-
-Steps
-
+Steps:
 Open Terminal / Command Prompt
-
 Navigate to the project folder:
 
 cd Week1-Personal-Info
 
-
 Run the program:
-
 python personal_info.py
-
 
 Follow the prompts and enter your details
 
@@ -121,53 +94,33 @@ Thank you for using the program!
 ==================================================
 
 ## Challenges & Solutions
-Challenge 1: User enters empty input
-
+1 Challenge 1: User enters empty input
 Solution:
 Used while loops to repeatedly ask for input until valid data is entered.
 
-Challenge 2: Formatting output neatly
-
+2 Challenge 2: Formatting output neatly
 Solution:
 Used f-strings and spacing to align text properly.
 
 ## Technical Details
-Algorithms Used
-
-Sequential execution
-
-Input validation using loops
-
-Arithmetic calculation for age conversion
-
-Data Structures
-
-Variables (strings and integers)
-
-Program Architecture
-
-Single Python file
-
-Clear sections:
-
-Welcome message
-
-Static data
-
-User input
-
-Calculation
-
-Output display
+1 Algorithms Used
+2 Sequential execution
+3 Input validation using loops
+4 Arithmetic calculation for age conversion
+5 Data Structures
+6 Variables (strings and integers)
+7 Program Architecture
+8 Single Python file
+9 Clear sections:
+10 Welcome message
+11 Static data
+12 User input
+13 Calculation
+14 Output display
 
 ## Testing Evidence
 Test Case	Input	Result
 Normal input	Pizza, Blue	Program runs correctly
-
-
-No crashes for valid input
-
-Prevents empty values
 
 ## Code Structure
 Week1-Personal-Info/
@@ -177,26 +130,19 @@ Week1-Personal-Info/
 └── .gitignore
 
 ## Visual Documentation
-
-Screenshots should include:
-
-Running program in terminal
-
-User input prompts
-
-Final output display
-
-Project folder structure
-
+1 Screenshots should include:
+2 Running program in terminal
+3 User input prompts
+4 Final output display
+5 Project folder structure
 
 ## Quality Standards Checklist
-
- Clear project overview and objectives
- Step-by-step setup instructions
- Well-organized file structure
- Explanation of logic and calculations
- Input validation and testing
- Visual proof (screenshots)
+1 Clear project overview and objectives
+2 Step-by-step setup instructions
+3 Well-organized file structure
+4 Explanation of logic and calculations
+5 Input validation and testing
+6 Visual proof (screenshots)
 
 
 
