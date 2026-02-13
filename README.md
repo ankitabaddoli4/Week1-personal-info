@@ -91,7 +91,9 @@ Country        : India
 
 ==================================================
 Thank you for using the program!
-==================================================
+================================================== 
+
+![Program Output](Screenshots/python_code.png) 
 
 ## Challenges & Solutions
 1 Challenge 1: User enters empty input
